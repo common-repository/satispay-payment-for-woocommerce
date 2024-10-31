@@ -1,0 +1,656 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Payment Satispay\n"
+"POT-Creation-Date: 2016-07-18 12:03+0200\n"
+"PO-Revision-Date: 2016-07-18 12:04+0200\n"
+"Last-Translator: Simona <simona@digitalissimo.it>\n"
+"Language-Team: Simona <simona@digitalissimo.it>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: function.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: callback.php:46 function.php:815
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:749
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:748
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:796
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:796
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:793
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:779
+msgid "Payment successfully completed with Satispay"
+msgstr "Pagamento completato con successo con Satispay"
+
+#: callback.php:61 function.php:829
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:762
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:761
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:810
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:810
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:807
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:793
+msgid "Payment Failed"
+msgstr "Pagamento fallito"
+
+#: function.php:93
+msgid ""
+"Invalid token! Please enter a valid token to use Satispay as a payment method"
+msgstr ""
+"Token non valido! Si prega di inserire un token valido per usare Satispay "
+"come metodo di pagamento"
+
+#: function.php:102
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:85
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:85
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:96
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:96
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:96
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:93
+msgid "What Satispay?"
+msgstr "Che cos'è Satispay?"
+
+#: function.php:113
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:94
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:94
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:107
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:107
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:107
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:104
+msgid "Enable/Disable"
+msgstr "Abilita/Disabilita"
+
+#: function.php:115
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:96
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:96
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:109
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:109
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:109
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:106
+msgid "Enable Satispay Payment Module."
+msgstr "Attivare il modulo di pagamento Satispay."
+
+#: function.php:120
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:107
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:107
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:120
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:120
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:120
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:111
+msgid "Token Merchant ID"
+msgstr "Token Merchant ID"
+
+#: function.php:122
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:109
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:109
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:122
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:122
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:122
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:113
+msgid "Request your security token to satispay for your online shop"
+msgstr ""
+"Richiedi il tuo token di sicurezza da satispay per il tuo negozio online"
+
+#: function.php:126
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:113
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:113
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:126
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:126
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:126
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:117
+msgid "Title:"
+msgstr "Nome da visualizzare:"
+
+#: function.php:128
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:115
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:115
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:128
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:128
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:128
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:119
+msgid "This controls the title which the user sees during checkout."
+msgstr "Imposta il titolo che gli utenti vedono durante il pagamento."
+
+#. Author of the plugin/theme
+#: function.php:129
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:116
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:116
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:129
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:129
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:129
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:120
+msgid "Satispay"
+msgstr "Satispay"
+
+#: function.php:131
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:118
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:118
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:131
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:131
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:131
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:122
+msgid "Description:"
+msgstr "Descrizione:"
+
+#: function.php:133
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:120
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:120
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:133
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:133
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:133
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:124
+msgid "This controls the description which the user sees during checkout."
+msgstr "Imposta la descrizione che gli utenti vedranno durante il pagamento."
+
+#: function.php:134
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:121
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:121
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:134
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:134
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:134
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:125
+msgid "Send and receive money the smart way!"
+msgstr "Inviare e ricevere denaro nel modo più intelligente!"
+
+#: function.php:138
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:138
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:138
+msgid "Name Shop"
+msgstr "Nome negozio"
+
+#: function.php:150
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:139
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:136
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:154
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:154
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:154
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:140
+msgid "Satispay Payment Gateway"
+msgstr "Gateway di pagamento Satispay"
+
+#: function.php:150
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:154
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:154
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:154
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:140
+msgid "The best for your business"
+msgstr "Solo il meglio per la tua attività"
+
+#: function.php:151
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:155
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:155
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:155
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:141
+msgid ""
+"Satispay was created to help you make the most from your business. No risk "
+"of counterfeit money or theft; just fast, secure, cheap payments."
+msgstr ""
+"Inizia subito a risparmiare ricevendo pagamenti dai tuoi clienti con "
+"Satispay."
+
+#: function.php:155
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:159
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:159
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:159
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:145
+msgid "Register your business"
+msgstr "Iscrivi la tua attività"
+
+#: function.php:158
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:162
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:162
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:162
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:148
+msgid "Go to the Control Panel"
+msgstr "Accedi al pannello di controllo"
+
+#: function.php:162
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:166
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:166
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:166
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:152
+msgid "FAQ"
+msgstr "FAQ"
+
+#: function.php:164
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:168
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:168
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:168
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:154
+msgid "HELP: Contact us"
+msgstr "AIUTO: Contattaci"
+
+#: function.php:166
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:170
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:170
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:170
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:156
+msgid "Price"
+msgstr "Prezzi"
+
+#: function.php:168
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:172
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:172
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:172
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:158
+msgid "Facebook"
+msgstr ""
+
+#: function.php:178
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:182
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:182
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:182
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:168
+msgid "Warning"
+msgstr "Attenzione"
+
+#: function.php:178
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:182
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:182
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:182
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:168
+msgid ""
+"you must enter the token that Satispay sent in order to use the payment "
+"method"
+msgstr ""
+"è necessario inserire  il token che Satispay ti ha inviato al fine di "
+"utilizzare il metodo di pagamento"
+
+#: function.php:221
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:172
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:219
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:219
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:219
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:205
+msgid "Buying from"
+msgstr "Acquisto da"
+
+#: function.php:221
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:172
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:219
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:219
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:219
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:205
+msgid "Order no."
+msgstr "Ordine n."
+
+#: function.php:273
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:274
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:260
+msgid "To confirm your order"
+msgstr "Per concludere il pagamento"
+
+#: function.php:273
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:274
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:260
+msgid "enter you mobile number"
+msgstr " inserisci il numero"
+
+#: function.php:273
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:233
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:227
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:274
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:274
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:274
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:260
+msgid "If you are not registered"
+msgstr "Se non sei registrato"
+
+#: function.php:273
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:233
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:227
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:274
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:274
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:274
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:260
+msgid "sign up now"
+msgstr "ISCRIVITI ORA"
+
+#: function.php:279 function.php:780
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:237
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:716
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:231
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:715
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:278
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:763
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:278
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:763
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:280
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:760
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:266
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:746
+msgid "You need to enter your phone number"
+msgstr "Devi inserire il tuo numero di telefono"
+
+#: function.php:291 function.php:434 function.php:452 function.php:468
+#: function.php:530
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:249
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:387
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:416
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:475
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:243
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:383
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:412
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:474
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:290
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:430
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:459
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:521
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:290
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:430
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:459
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:521
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:292
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:434
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:452
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:468
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:530
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:278
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:420
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:438
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:454
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:516
+msgid "Internal error, please try again later"
+msgstr "Errore, si prega riprovare più tardi."
+
+#: function.php:296
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:297
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:283
+msgid "The phone number"
+msgstr "Il numero"
+
+#: function.php:296
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:297
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:283
+msgid "is not linked to a Satispay account"
+msgstr "non risulta iscritto al servizio"
+
+#: function.php:298
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:299
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:285
+msgid "To send money you must first sign up"
+msgstr "Per procedere ai pagamenti devi prima registarti"
+
+#: function.php:302
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:260
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:254
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:301
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:301
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:303
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:289
+msgid "Sign up for free to Satispay"
+msgstr "Iscriviti gratis a Satispay"
+
+#: function.php:312
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:313
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:299
+msgid "The payment request has benn sent"
+msgstr "La tua richiesta è stata inviata"
+
+#: function.php:314
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:315
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:301
+msgid "The payment request has been sent to"
+msgstr "Abbiamo inviato la tua richiesta al numero"
+
+#: function.php:316
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:317
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:303
+msgid "To complete the transaction"
+msgstr "Per concludere il pagamento"
+
+#: function.php:317
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:318
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:304
+msgid "open the app and confirm the payment"
+msgstr "apri l'App Satispay e accetta la richiesta"
+
+#: function.php:327
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:328
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:314
+msgid "Payment cancelled"
+msgstr "Il pagamento è stato annullato"
+
+#: function.php:329
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:330
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:316
+msgid "The payment was cancelled. Please try again"
+msgstr "La transazione è stata cancellata. Riprova ad effettuare il pagamento"
+
+#: function.php:331
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:332
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:318
+msgid "Choose other payment methods"
+msgstr "Scegli i metodi di pagamento"
+
+#: function.php:341
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:342
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:328
+msgid "Transaction completed"
+msgstr "La transazione è avvenuta con successo"
+
+#: function.php:343
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:344
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:330
+msgid "We have sent the payment confirmation to your email"
+msgstr "La ricevuta ti è stata inviata sul tuo account di posta."
+
+#: function.php:356
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:310
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:281
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:306
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:328
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:353
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:328
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:353
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:357
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:343
+msgid "Returns to cart"
+msgstr "Torna al carrello"
+
+#: function.php:439
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:392
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:662
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:388
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:661
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:435
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:709
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:435
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:709
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:439
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:425
+msgid "The phone number is not formatted correctly"
+msgstr "Il numero di telefono non è formattato correttamente"
+
+#: function.php:448
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:658
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:657
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:705
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:705
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.4/function.php:448
+#: woo-satispay-payment/satispay-payment-for-woocommerce/trunk/function.php:434
+msgid "Internal error, shop does not exist"
+msgstr "Errore interno, il negozio non esiste."
+
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:100
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:100
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:113
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:113
+msgid "For developer?"
+msgstr "Per sviluppatori?"
+
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:102
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:102
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:115
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:115
+msgid "Enable Satispay for Test"
+msgstr "Abilitata  per solo Test"
+
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:125
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:125
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:138
+msgid "Nome negozio"
+msgstr "Nome negozio"
+
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:127
+msgid "Insert the name of the store to the Welcome Bonus"
+msgstr "Inserisci il nome del negozio per il Bonus di benvenuto"
+
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:140
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:137
+msgid "Satispay is a mobile payment"
+msgstr "Satispay è un pagamento mobile"
+
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:177
+#, php-format
+msgid "Buying from %d - Order no. %o"
+msgstr "Acquisto da %d - N. di ordine %o"
+
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:233
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:227
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:274
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:274
+msgid "To confirm your order, please enter"
+msgstr "Per confermare l'ordine, si prega di inserire"
+
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:233
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:227
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:274
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:274
+msgid "the phone number with which you joined satispay"
+msgstr "il numero di telefono con cui ti sei iscritto satispay"
+
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:233
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:227
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:274
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:274
+msgid ""
+"You receive a request for payment. Open the App and confirm the payment."
+msgstr ""
+"Riceverai una richiesta di pagamento. Apri l'App e confermare il pagamento."
+
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:254
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:248
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:295
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:295
+msgid "The number"
+msgstr "Il numero"
+
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:254
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:248
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:295
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:295
+msgid "is not registered with the service"
+msgstr "non è registrato con il servizio"
+
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:256
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:250
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:297
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:297
+msgid "To send money you must have a Satispay account"
+msgstr "Per inviare denaro è necessario disporre di un account Satispay"
+
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:270
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:264
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:311
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:311
+msgid "Your request has been sent"
+msgstr "La tua richiesta è stata inviata"
+
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:272
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:266
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:313
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:313
+msgid "We have sent your request to the number"
+msgstr "Ti abbiamo inviato la tua richiesta al numero"
+
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:274
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:268
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:315
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:315
+msgid "to conclude your payment"
+msgstr "per concludere il pagamento"
+
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:275
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:269
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:316
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:316
+msgid "open the App Satispay and accepts the request"
+msgstr "apri l'App Satispay e accetta la richiesta"
+
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:285
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:279
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:326
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:326
+msgid "The payment has been annulled"
+msgstr "Il pagamento è stato annullato"
+
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:287
+msgid "Please try again to make the payment"
+msgstr "Riprova ad effettuare il pagamento"
+
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:295
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:291
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:338
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:338
+msgid "The transaction is successful"
+msgstr "La transazione ha avuto esito positivo"
+
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:297
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:293
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:340
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:340
+msgid "A receipt has been sent to your email account"
+msgstr ""
+"Al tuo indirizzo email è stata inoltrata una conferma di ricezione dell&apos;"
+"ordine appena effettuato"
+
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:660
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:659
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:707
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:707
+msgid "you need to enter your phone number"
+msgstr "devi inserire il tuo numero di telefono"
+
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.0/function.php:664
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.1/function.php:663
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.2/function.php:711
+#: woo-satispay-payment/satispay-payment-for-woocommerce/tags/1.3/function.php:711
+msgid "The phone number is not registered with the service"
+msgstr "Il numero di telefono non è registrato con il servizio"
+
+#. Plugin Name of the plugin/theme
+msgid "Satispay Payment for WooCommerce"
+msgstr "Gateway di pagamento Satispay"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.satispay.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Integrate Satispay into Woocommerce site. Send and receive money the smart "
+"way!"
+msgstr ""
+"Integra Satispay nel sito Woocommerce. Con Satispay fai una scelta "
+"intelligente anche quando decidi come inviare o ricevere pagamenti."
+
+#~ msgid "Buying from "
+#~ msgstr "Acquisto da"
+
+#~ msgid "Order no. "
+#~ msgstr "Ordine n."
+
+#~ msgid " - Order no. "
+#~ msgstr "Ordine n."
+
+#~ msgid "Security-Token"
+#~ msgstr "Token di sicurezza"
